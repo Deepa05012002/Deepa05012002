@@ -7,5 +7,5 @@
 - 💼 This GitHub is where I’ll be sharing my personal and academic projects — from **data cleaning pipelines** to **end-to-end analytics solutions**.
 - 💡 I'm looking to collaborate on **analytics projects**, **Hackathons**, or **open-source tools** related to business intelligence.
 - 📫 How to reach me: [LinkedIn]:http://www.linkedin.com/in/deepakotapati0105) | Email: deepakotapati01@gmail.com
-- ⚡ I love finding patterns in everyday data — from Netflix watch history 
+   
 
